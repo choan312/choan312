@@ -4,13 +4,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jonaswagner317/">
+  <a href="https://www.linkedin.com/in/jonaswagner317/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.xing.com/profile/Jonas_Wagner2108">
+  <a href="https://www.xing.com/profile/Jonas_Wagner2108" target="_blank">
     <img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" alt="Xing Badge"/>
   </a>
-  <a href="https://www.instagram.com/choan317/">
+  <a href="https://www.instagram.com/choan317/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
