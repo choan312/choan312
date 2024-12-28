@@ -25,7 +25,7 @@
 - 🔭 I’m working as a Working Student in a Software Engineer position and mainly contributing to backend by building microservices.
 - 🌱 Exploring Machine Learning and Artificial Intelligence.
 - 👯 I’m looking to collaborate on intersting projects with future technologies.
-- 💬 Ask me about Coding, Gaming or Music (HipHop, Trap or Rap).
+- 💬 Ask me about Coding, Gaming or Music (HipHop, Rock, Trap or Rap).
 - ⚡ Fun fact: I can learn the best with loud music.
 - 📫 How to reach me: [EMail](mailto:jonas.wagner.2001@gmx.de), [LinkedIn](https://www.linkedin.com/in/jonaswagner317/)
 
